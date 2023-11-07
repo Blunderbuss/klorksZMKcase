@@ -9,3 +9,6 @@ And you salvage the battery contacts from these: https://www.mouser.com/ProductD
 
 
 Thin wire is also required to solder the battery contacts to the KLOR board. Otherwise, assembly should be straight-forward and follow the original cases format. 
+
+
+Note that the haptic module being installed makes the bottom plate not sit flush, which will be corrected in a future revision. 
